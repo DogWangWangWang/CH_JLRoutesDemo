@@ -1,0 +1,26 @@
+PODS:
+  - Masonry (0.6.4)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.12)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - WMPageController (2.4.0)
+
+DEPENDENCIES:
+  - Masonry (~> 0.6.4)
+  - MBProgressHUD (~> 0.9.1)
+  - MJRefresh (~> 3.1.12)
+  - SDWebImage (~> 3.7.5)
+  - WMPageController (~> 2.4.0)
+
+SPEC CHECKSUMS:
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  WMPageController: e9af37a2c7f259582578b35f2b67530b061e3862
+
+PODFILE CHECKSUM: 4d52b18948ca8e6aba467bc0de58f2cd4c9555f2
+
+COCOAPODS: 1.2.1
